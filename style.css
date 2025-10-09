@@ -34,7 +34,7 @@ html {
 }
 
 .li-navbar:hover {
-  background-color: blue;
+  background-color: #4b0b1e;
   transition: .5s ease-in-out;
   transition-delay: .1s;
   border-radius: 8px;
@@ -170,4 +170,5 @@ html {
 .tentang-footer {
   font-size: 40px;
   color: white;
+
 }
